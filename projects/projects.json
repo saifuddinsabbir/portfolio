@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Application System",
+    "desc": "Agile, MySQL, HTML, CSS, PHP, JS, AJAX, Trello. <br> Developed a web platform for employee applications of University of Chittagong with live tracking, chat-based issue resolution, and reporting.",
+    "image": "../assets/images/projects/project_banner.png",
+    "category": "web",
+    "links": {
+      "view": "https://instagramernstack.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/instagram-mern"
+    }
+  },
+  {
+    "name": "BetterLife: Healthcare App",
+    "desc": "TensorFlow Lite, Java, XML, Firebase, RESTful API, GraphQL, SASS, GSAP <br> Brain tumor detection from 2D MRI images, with features like doctor appointments, prescriptions, blogs, and emergency ambulance calls.",
+    "image": "../assets/images/projects/project_banner3.png",
+    "category": "App",
+    "links": {
+      "view": "https://flipkartwebs.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/flipkart-mern"
+    }
+  },
+  {
+    "name": "BDWeather: Weather Prediction",
+    "desc": "TensorFlow.js, Next.js, MongoDB, RESTful API, GraphQL, GSAP, SASS",
+    "image": "../assets/images/projects/web_project.png",
+    "category": "App",
+    "links": {
+      "view": "https://resumegenx.netlify.app/",
+      "code": "https://github.com/jigar-sable/resumegen"
+    }
+  },
+  {
+    "name": "SmartCultivation",
+    "desc": "Python, ESP32, VGG16, ML, Java, XML, Firebase, Arduino, Heroku, Flask, Blynk",
+    "image": "../assets/images/projects/project_banner3.png",
+    "category": "IoT",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/React-Projects"
+    }
+  },
+  {
+    "name": "BEngaliA with ESP32",
+    "desc": "Python, ESP32, Librosa, Machine Learning, Arduino",
+    "image": "../assets/images/projects/iot.png",
+    "category": "IoT",
+    "links": {
+      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
+      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+    }
+  },
+  {
+    "name": "LeafiFy: Plant Classification",
+    "desc": "Java, XML, Tensorflow Lite, SASS, GSAP, GraphQL, RESTful API, Firebase",
+    "image": "../assets/images/projects/project_banner.png",
+    "category": "basicweb",
+    "links": {
+      "view": "https://jigar-sable.github.io/JavaScript-Projects",
+      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+    }
+  }
+]
